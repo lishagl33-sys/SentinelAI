@@ -2,7 +2,7 @@ import subprocess
 import re
 
 # Change this path if your Build Tools version is different
-AAPT_PATH = r"C:\Users\Lisha G L\AppData\Local\Android\Sdk\build-tools\37.0.0\aapt.exe"
+AAPT_PATH = r"C:\Users\Admin\AppData\Local\Android\Sdk\build-tools\37.0.0\aapt.exe"
 
 
 def extract_apk_metadata(apk_path):
